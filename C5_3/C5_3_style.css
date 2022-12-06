@@ -1,0 +1,28 @@
+.result {
+  margin-top: 20px;
+}
+
+.card-image {
+  width: 200px;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  box-shadow: none;
+  cursor: pointer;
+
+  padding: 10px 15px;
+  border-radius: 1px;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: white;
+  background: #315efb;
+}
+
+.btn:hover {
+  background: #b3c3fc;
+}
